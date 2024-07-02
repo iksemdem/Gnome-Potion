@@ -1,8 +1,14 @@
 # An Exiled (SCP:SL) plugin that turns you a gnome.
+
+
 Plugin that adds Gnome Potion into the game.
+
 Originally, it was Bumcio's HulkPotion plugin, but i have made an anti-version of it, instead of it making you bigger and able to destroy doors, you become smaller and need to jump to open doors.
+
 Additionaly made it a custom item with the help of MikeSus1.
+
 It does NOT spawn naturally, you need to spawn it using a command, or using a locker from MER (visit MER discord for more info about creating your own maps https://discord.com/invite/JwAfeSd79u)
+
 It is my first plugin, so it is really basic, but i think it can be fun to play around.
 
 Features:
